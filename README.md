@@ -1,3 +1,3 @@
 # binder
 
-https://mybinder.org/v2/gh/fboylu/binder.git/master
+https://mybinder.org/v2/gh/fboylu/binder/master
